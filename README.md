@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Niko 👋
 
-<!--
-**cerzzi/cerzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m a **Software Engineering Student** with a passion for writing clean, efficient code and solving real-world problems through technology.
 
-Here are some ideas to get you started:
+## 💻 About Me
+- Currently honing my skills in software development.
+- Enthusiastic about creating impactful solutions and learning new tools.
+- Background in **C++**, **HTML**, **CSS**, and **JavaScript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages**: C++, JavaScript  
+- **Web Development**: HTML, CSS
+
+## 🌟 What I’m Working On
+- Building my expertise through hands-on coding and projects.
+- Exploring new technologies and best practices in software engineering.
